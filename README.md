@@ -1,6 +1,6 @@
 ### Hi, I'm Hakan 👋
 
-Civil engineer by trade, builder of web projects on the side. 🇹🇷
+I build web projects for gamers. 🇹🇷
 
 ## 🌐 My sites
 
