@@ -4,9 +4,7 @@ Civil engineer by trade, builder of web projects on the side. 🇹🇷
 
 ## 🌐 My sites
 
-| | |
-|---|---|
-| ⚔️ **[MyGamerCv](https://mygamercv.com)** | Turns your Steam profile into a Souls-like résumé: every boss you've beaten across 16 Souls-likes and action games, a Souls Hunter Score and a [leaderboard](https://mygamercv.com/leaderboard). |
+- ⚔️ **[MyGamerCv](https://mygamercv.com)** — turns your Steam profile into a Souls-like résumé: every boss you've beaten across 16 Souls-likes and action games, a Souls Hunter Score and a [leaderboard](https://mygamercv.com/leaderboard).
 
 ## 🛠️ Tech I use
 
