@@ -5,6 +5,8 @@ I build web projects for gamers. 🇹🇷
 ## 🌐 My sites
 
 - ⚔️ **[MyGamerCv](https://mygamercv.com)** — turns your Steam profile into a Souls-like résumé: every boss you've beaten across 16 Souls-likes and action games, a Souls Hunter Score and a [leaderboard](https://mygamercv.com/leaderboard).
+- 🗡️ **[TarnishedWiki](https://tarnishedwiki.com)** — Elden Ring boss guides, from Margit, the Fell Omen to Godfrey, First Elden Lord.
+- 🏢 **OfficeWars** — a browser game for office free time, for coffee breaks and lunch hours.
 
 ## 🛠️ Tech I use
 
